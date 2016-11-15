@@ -98,7 +98,7 @@ Available versions:
 
 ```
 # 여기서는 최신 Python 버전인 3.5.2를 설치해 보겠다.
-$ pyenv instal 3.5.2
+$ pyenv install 3.5.2
 ```
 
 설치를 완료한 이후에는 현재 설치된 가상 버전들 중에서 확인이 가능하다.
